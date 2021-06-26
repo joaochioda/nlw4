@@ -61,13 +61,13 @@ From your command line:
 $ git clone https://github.com/joaochioda/rockttutorial
 
 # Go into the web
-$ cd web
+$ cd moveit-next
 
 # Install dependencies
 $ npm install
 
 # Run the server
-$ npm start
+$ npm run dev
 
 # The web application will open on port:3000
 # To access it go to http://localhost:3000
